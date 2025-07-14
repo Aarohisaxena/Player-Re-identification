@@ -1,0 +1,7 @@
+data:
+  broadcast_video: data/broadcast.mp4
+  tacticam_video: data/tacticam.mp4
+weights:
+  yolo: weights/yolo.pt
+output:
+  dir: output/

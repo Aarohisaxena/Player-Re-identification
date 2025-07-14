@@ -1,0 +1,3 @@
+Broadcast ID 0 <-> Tacticam ID 18
+Broadcast ID 1 <-> Tacticam ID 20
+Broadcast ID 2 <-> Tacticam ID 10
